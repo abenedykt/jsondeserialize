@@ -1,0 +1,15 @@
+C:\Visual Studio Projects\180_days_project\JsonDeserialize\JsonDeserialize\obj\Debug\JsonDeserialize.csprojResolveAssemblyReference.cache
+C:\Visual Studio Projects\180_days_project\JsonDeserialize\JsonDeserialize\bin\Debug\JsonDeserialize.dll
+C:\Visual Studio Projects\180_days_project\JsonDeserialize\JsonDeserialize\bin\Debug\JsonDeserialize.pdb
+C:\Visual Studio Projects\180_days_project\JsonDeserialize\JsonDeserialize\bin\Debug\FluentAssertions.Core.dll
+C:\Visual Studio Projects\180_days_project\JsonDeserialize\JsonDeserialize\bin\Debug\FluentAssertions.dll
+C:\Visual Studio Projects\180_days_project\JsonDeserialize\JsonDeserialize\bin\Debug\Newtonsoft.Json.dll
+C:\Visual Studio Projects\180_days_project\JsonDeserialize\JsonDeserialize\bin\Debug\xunit.dll
+C:\Visual Studio Projects\180_days_project\JsonDeserialize\JsonDeserialize\bin\Debug\FluentAssertions.pdb
+C:\Visual Studio Projects\180_days_project\JsonDeserialize\JsonDeserialize\bin\Debug\FluentAssertions.xml
+C:\Visual Studio Projects\180_days_project\JsonDeserialize\JsonDeserialize\bin\Debug\FluentAssertions.Core.pdb
+C:\Visual Studio Projects\180_days_project\JsonDeserialize\JsonDeserialize\bin\Debug\FluentAssertions.Core.xml
+C:\Visual Studio Projects\180_days_project\JsonDeserialize\JsonDeserialize\bin\Debug\Newtonsoft.Json.xml
+C:\Visual Studio Projects\180_days_project\JsonDeserialize\JsonDeserialize\bin\Debug\xunit.xml
+C:\Visual Studio Projects\180_days_project\JsonDeserialize\JsonDeserialize\obj\Debug\JsonDeserialize.dll
+C:\Visual Studio Projects\180_days_project\JsonDeserialize\JsonDeserialize\obj\Debug\JsonDeserialize.pdb
